@@ -6,6 +6,7 @@ A new Flutter project.
 
 - [Section-8](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/learn/lecture/37143946#content)
 - [Section-9](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/learn/lecture/37144760#content)
+- [Section-10-complete-app](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/learn/lecture/37145084#content)
 
 ## Getting Started
 
